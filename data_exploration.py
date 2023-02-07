@@ -1,1 +1,1 @@
-Print("Hey friends, its Tymber")
+print("Hey friends, its Tymber")
